@@ -1,3 +1,3 @@
 # Cli hip hop
 
-This CLI app is for the rapper krsna like to know how much you know about him.
+This CLI app is to check how much you know about rapper krsna.
